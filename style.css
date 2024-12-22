@@ -1,0 +1,22 @@
+.di_chuot_qua:hover {
+  color: pink;
+  font-size: 99px;
+}
+.nhap_chuot:active {
+  background-color: black;
+  color: white;
+}
+.link:link {
+  color: red;
+}
+.link:visited {
+  color: green;
+}
+.div_elm:empty {
+  width: 200px;
+  height: 200px;
+  background-color: blueviolet;
+}
+h2:target {
+  color: cadetblue;
+}
